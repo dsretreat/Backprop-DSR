@@ -1,6 +1,5 @@
 # Backprop-DSR
 
-Course material for corporate training.
+Course material for corporate training (CARIAD).
 
-
-This repo includes all the materials for the backpropagation module. 
+This repo includes materials for the backpropagation module. 
